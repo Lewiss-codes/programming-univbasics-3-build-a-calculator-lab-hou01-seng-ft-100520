@@ -31,7 +31,11 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  puts "#{num1}"
+  puts "#{num2}"
+  mod = num1 % num2 
+  puts mod 
+  mod
 end
 
 def square_root(num)
