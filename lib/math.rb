@@ -40,5 +40,5 @@ end
 
 def square_root(num)
   puts "#{num}"
-  Math.sqrt "#{num}"
+  Math.sqrt( "#{num}" )
 end
