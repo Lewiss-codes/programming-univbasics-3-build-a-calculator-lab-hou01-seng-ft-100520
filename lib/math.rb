@@ -41,4 +41,6 @@ end
 def square_root(num)
   puts "#{num}"
   sqr = num**
+  puts sqr
+  sqr
 end
