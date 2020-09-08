@@ -40,7 +40,7 @@ end
 
 def square_root(num)
   puts "#{num}"
-  sqr = num**
+  Math.sqrt "#{num}"
   puts sqr
   sqr
 end
